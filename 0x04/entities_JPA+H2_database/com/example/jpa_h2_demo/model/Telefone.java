@@ -14,6 +14,7 @@ public class Telefone {
     private Long numero;
 
     @ManyToOne
+    @JoinColumn(name = "cliente_id")
     private Cliente cliente;
 
     public Telefone() {

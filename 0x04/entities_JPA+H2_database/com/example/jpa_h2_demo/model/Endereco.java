@@ -18,6 +18,7 @@ public class Endereco {
     private String estado;
 
     @ManyToOne
+    @JoinColumn(name = "cliente_id")
     private Cliente cliente;
 
     public Endereco() {
