@@ -4,7 +4,7 @@
 		"nome": "Ze Fulano",
 		"idade": 40,
 		"email": "zezinho@email.com",
-		"enderecos": [
+		"endereco": [
 			{
 				"id": 1,
 				"logradouro": "AVENIDA",
@@ -15,7 +15,7 @@
 				"estado": "SP"
 			}
 		],
-		"telefones": [
+		"telefone": [
 			{
 				"id": 3,
 				"ddd": 18,
@@ -28,7 +28,7 @@
 		"nome": "Manoel Antunes",
 		"idade": 26,
 		"email": "manoel@email.com",
-		"enderecos": [
+		"endereco": [
 			{
 				"id": 2,
 				"logradouro": "RUA",
@@ -39,7 +39,7 @@
 				"estado": "SP"
 			}
 		],
-		"telefones": [
+		"telefone": [
 			{
 				"id": 1,
 				"ddd": 14,
